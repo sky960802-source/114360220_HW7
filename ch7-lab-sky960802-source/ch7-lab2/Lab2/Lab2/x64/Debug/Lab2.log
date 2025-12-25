@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\林宇廷\OneDrive\Desktop\ch7-lab-sky960802-source\ch7-lab2\source\main.c(57,15): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\林宇廷\OneDrive\Desktop\ch7-lab-sky960802-source\ch7-lab2\source\main.c(64,19): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  Lab2.vcxproj -> C:\Users\林宇廷\OneDrive\Desktop\ch7-lab-sky960802-source\ch7-lab2\Lab2\x64\Debug\Lab2.exe
